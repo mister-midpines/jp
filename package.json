@@ -1,5 +1,5 @@
 {
-  "name": "jaws-netlify-trigger",
+  "name": "jp-netlify-trigger",
   "version": "1.0.0",
   "description": "Netlify function to trigger GitHub Action",
   "main": "index.js",
